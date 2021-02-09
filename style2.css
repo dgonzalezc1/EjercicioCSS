@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+
+.TextAzul{
+    color:blue;
+}
+
+.TextNaranja{
+    color: orange;
+}
+
+p{
+    text-align: center;
+}
+
+.PAzul{
+    color: blue;
+    font-weight: bold;
+}
